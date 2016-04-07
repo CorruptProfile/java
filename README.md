@@ -5,6 +5,8 @@
 
 3. The Team will post its completed JCF Data Structure and results. Team 1 will verify (1) the Team’s JUnit tests to build the Team’s assigned Data Structure; (2) the results of each Team’s efficiency result in Big O Notation, for searching/sorting elapsed time; (3) all necessary Java source code files & screen shots to prove successful execution.
 
+---
+
 ### TEAM 1
 Team 1 will construct 3 int[] arrays with random numbers from 20 to 20,000, using the techniques discussed in the Monographs on searching & sorting:
 
@@ -20,6 +22,8 @@ Team 1 will rerun each Team’s JUnit tests to ensure that the Team’s assigned
 
 Team 1 will then verify each Team’s efficiency result for searching and sorting using Big O Notation as explained in the Construction & Verification Section below.
 
+---
+
 ### TEAM 8
 Team 8 will construct 3 Hash Tables to store the data contained in the 3 initial int[] arrays created by Team 1. 
 
@@ -34,3 +38,12 @@ Team 8 will count the number of data collisions for each Hash Table storage effo
 Team 8 will search the contents of each Hash Table for the first 2 even integers between 1,000 and 10,000 and record the efficiency results from Big O Notation using elapsed time. 
 
 Team 8 will then post the 3 Hash Tables for Team 1 along with efficiency results.
+
+---
+
+##### Final Team submission (posting) should include:
+
+1. Data Structure and data processing Java source code files
+2. JUnit test class & test int[] array Java source code files
+3. Big O Notation elapsed time measuring Java source code files
+4. Screen shots of the JUnit GUI and test results (positive and negative as described above)
