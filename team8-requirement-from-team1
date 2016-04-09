@@ -1,0 +1,28 @@
+Hello team leads,
+ 
+I have BCC’d you all on this email (I know some people are protective of their contact information, so I didn’t want to just send it to all the other leads).
+I told you that I would let you know what to name your return methods, and that is what this email is for.
+ 
+ 
+getTimeOne()
+                Will return the time it takes to find your integers in the first array
+getTimeTwo()
+                Will return the time it takes to find your integers in the seconds array
+getTimeThree()
+                Will return the time it takes to find your integers in the third array
+getValuesOne()
+                Will return the two integers that you were looking for in array1 as a two element array of type int
+getValuesTwo()
+                Will return the two integers that you were looking for in array2 as a two element array of type int
+getValuesThree()
+                Will return the two integers that you were looking for in array3 as a two element array of type int
+ 
+ 
+Team2 will also have the method getSortTime() which will return the time it takes to sort the arrayList.
+Team8 will also have the method getCollisions() which will return the number of collisions they counted.
+ 
+ 
+If there are any issues, or any errors in what data I am expecting from each team, please let me know as soon as possible.
+ 
+ 
+Daniel Ciesielski
