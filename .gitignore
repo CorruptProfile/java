@@ -1,0 +1,14 @@
+/build/
+/dist/
+/nbproject/
+
+
+*.mf
+*.xml
+*.properties
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
